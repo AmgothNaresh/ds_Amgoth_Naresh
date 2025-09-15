@@ -1,8 +1,7 @@
 # Trader Behavior Insights Project  
 
 ## Overview  
-This project explores the relationship between **trader behavior** (profitability, risk, trade volume, leverage) and **market sentiment** (Fear & Greed Index).  
-The goal is to analyze how trading activity aligns or diverges from sentiment and identify patterns that can inform smarter trading strategies.  
+This project explores the relationship between **trader behavior** (profitability, risk, trade volume, leverage) and **market sentiment** (Fear & Greed Index). The goal is to analyze how trading activity aligns or diverges from sentiment and identify patterns that can inform smarter trading strategies.  
 
 ---
 
@@ -84,9 +83,9 @@ The goal is to analyze how trading activity aligns or diverges from sentiment an
 
 ---
 
-## ✅ Conclusion  
+## Conclusion  
 
 This project demonstrates that **market sentiment (Fear & Greed Index) significantly influences trader behavior**.  
 The findings suggest that incorporating sentiment signals into trading strategies could enhance decision-making and risk management.  
 
-✍️ Prepared by: **Amgoth Naresh**  
+Prepared by: **Amgoth Naresh**  
