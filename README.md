@@ -11,6 +11,7 @@ This project explores the relationship between **trader behavior** (profitabilit
 - Two datasets were used:  
   - **Historical Trader Data** – includes execution price, trade size, PnL, leverage, etc.  
   - **Fear & Greed Index** – sentiment data labeled as *Fear*, *Greed*, etc.
+
  ** Data Access**  
 - Due to GitHub file size limits, full datasets are hosted externally:  
   - [Historical Trader Data (Google Drive)](https://drive.google.com/file/d/100TPMU4M2xcDulwIjTt46jdDv32JvlsR/view?usp=sharing)
