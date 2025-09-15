@@ -1,4 +1,4 @@
-# 📊 Trader Behavior Insights Project  
+# Trader Behavior Insights Project  
 
 ## Overview  
 This project explores the relationship between **trader behavior** (profitability, risk, trade volume, leverage) and **market sentiment** (Fear & Greed Index).  
